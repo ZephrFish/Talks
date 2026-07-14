@@ -4,7 +4,7 @@
 
 ### 2026
 - Le Tour De Hack 2026. - Building Chaos at Scale - (Was not recorded)
-- BSides Leeds 2026. - Archaic Creativity - TBC
+- BSides Leeds 2026. - Archaic Creativity - [Recording](https://youtu.be/TI1zsdvUREc?si=XBCGRv3KFNAwtZQS)
 - Steelcon 2026. - Overengineering it Like You'd Steal It -  TBC
 - Hack Glasgow 2026. - The Hunted becomes the Hunter - TBC
 
